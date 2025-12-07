@@ -1,0 +1,4 @@
+"pair_id","species1","species2","n_occ_sp1","n_occ_sp2","range_area_sp1_km2","range_area_sp2_km2","overlap_area_km2","overlap_proportion"
+1,"Oncorhynchus keta","Oncorhynchus gorbuscha",889,729,2599087.2812207,3878399.05957013,2056799.94214687,0.791354702478813
+2,"Oncorhynchus mykiss","Oncorhynchus clarkii",381,816,6591475.85227536,1639424.92762963,1639424.92762963,0.999999999999999
+3,"Oncorhynchus tshawytscha","Oncorhynchus kisutch",398,761,4586735.75796239,3264359.89395762,3072113.48344764,0.941107470758408

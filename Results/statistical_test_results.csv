@@ -1,0 +1,2 @@
+"comparison","test","sister_median","non_sister_median","p_value","interpretation"
+"Sister vs Non-sister","Wilcoxon rank-sum",0.941107470758408,0.838534020363346,0.907518796992481,"No significant difference in overlap"
